@@ -4,11 +4,11 @@
 
 A passionate learner exploring new technologies and staying updated on industry trends.
 
-- 🌱 I’m currently learning *JavaScript, **React JS, and **MERN Stack*
-- 💼 Actively preparing for roles in *Java Full Stack Development* and *Front-End Development*
-- 📚 Areas of interest: *Object-Oriented Programming, **Data Structures, and **Computer Networks*
+- 🌱 I’m currently learning  React JS, and MERN Stack
+- 💼 Actively preparing for roles in Java Full Stack Development and Front-End Development
+- 📚 Areas of interest: Object-Oriented Programming, Data Structures, and Computer Networks
 - 🎓 Completed B.Tech in Information Technology
-- 📫 How to reach me: *shahaepno@gmail.com*
+- 📫 How to reach me: shahaepno@gmail.com
 - 🌐 Portfolio : (https://shahaeprofile.netlify.app/)
 - 💬 Fact: Trust the process!
 
