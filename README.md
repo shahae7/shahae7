@@ -1,15 +1,12 @@
 ## Hi there 👋
 
-# Hi 👋, I'm Shahae Meeran (Meeron)
+# Hi 👋, I'm Shahae Meeran 
 
 A passionate learner exploring new technologies and staying updated on industry trends.
 
 - 🌱 I’m currently learning *JavaScript, **React JS, and **MERN Stack*
 - 💼 Actively preparing for roles in *Java Full Stack Development* and *Front-End Development*
 - 📚 Areas of interest: *Object-Oriented Programming, **Data Structures, and **Computer Networks*
-- 📊 Recently worked on:
-  - Weather App using *HTML, **CSS, and **JavaScript*
-  - Multiple-choice quiz game using *HTML, **CSS, and **JavaScript*
 - 🎓 Completed B.Tech in Information Technology
 - 📫 How to reach me: *shahaepno@gmail.com*
 - 🌐 Portfolio : [Portfolio Link](https://shahaeprofile.netlify.app/https://shahaeprofile.netlify.app/)
@@ -28,8 +25,6 @@ A passionate learner exploring new technologies and staying updated on industry 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
