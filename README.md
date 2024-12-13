@@ -1,4 +1,5 @@
-![Visitor Count](https://profile-counter.glitch.me/shahae7/count.svg)
+![Visitor Count](![Visitor Count](https://komarev.com/ghpvc/?username=YourUsername&style=flat&color=brightgreen)
+)
 
 ## Hi there 👋
 
