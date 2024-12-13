@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/shahae7/count.svg)
+
 ## Hi there 👋
 
 # Hi 👋, I'm Shahae Meeran 
