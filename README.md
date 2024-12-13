@@ -1,8 +1,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=shahae7&style=flat&color=brightgreen)
 
-
-## Hi there 👋
-
 # Hi 👋, I'm Shahae Meeran 
 
 A passionate learner exploring new technologies and staying updated on industry trends.
