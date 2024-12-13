@@ -28,6 +28,8 @@ A passionate learner exploring new technologies and staying updated on industry 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+
 
 ---
 
