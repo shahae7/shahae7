@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=shahae7&style=flat&color=brightgreen)
+
 
 # Hi 👋, I'm Shahae Meeran 
 
