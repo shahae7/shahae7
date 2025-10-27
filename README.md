@@ -9,7 +9,7 @@ A passionate learner exploring new technologies and staying updated on industry 
 - 📚 Areas of interest: Object-Oriented Programming, Data Structures, and Computer Networks
 - 🎓 Completed B.Tech in Information Technology
 - 📫 How to reach me: shahaepno@gmail.com
-- 🌐 Portfolio :(https://shahaeportfolio.netlify.app)
+- 🌐 Portfolio :(https://shahae.netlify.app/)
 - 💬 Fact: Trust the process!
 
 ---
