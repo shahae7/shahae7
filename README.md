@@ -5,12 +5,7 @@
 A passionate learner exploring new technologies and staying updated on industry trends.
 
 
-- 💼 Actively preparing for roles in Java Full  Development 
-- 📚 Areas of interest: Object-Oriented Programming, Data Structures, and Computer Networks
-- 🎓 Completed B.Tech in Information Technology
-- 📫 How to reach me: shahaepno@gmail.com
-- 🌐 Portfolio :(https://shahae.netlify.app/)
-- 💬 Fact: Trust the process!
+
 
 ---
 
