@@ -27,9 +27,4 @@ A passionate learner exploring new technologies and staying updated on industry 
 
 
 
----
 
-## Stats:
-![Profile Views](https://komarev.com/ghpvc/?username=shahae7&label=Profile%20views&color=0e75b6&style=flat)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahae7&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahae7&show_icons=true&theme=radical)
